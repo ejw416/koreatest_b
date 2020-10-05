@@ -10,4 +10,9 @@ public class DeptDao {
 		System.out.println("업데이트하였습니다.");
 		return 0;
 	}
+	
+	public int reset() {
+		System.out.println("처음부터 다시.");
+		return 3;
+	}
 }
