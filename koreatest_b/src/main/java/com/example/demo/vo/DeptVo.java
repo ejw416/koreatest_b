@@ -8,4 +8,5 @@ public class DeptVo {
 	private String dname;
 	private String loc;
 	private String name;
+	private int no;
 }
