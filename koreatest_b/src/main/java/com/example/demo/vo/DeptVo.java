@@ -7,5 +7,5 @@ public class DeptVo {
 	private int deptno;
 	private String dname;
 	private String loc;
-	private int tel;
+	private String name;
 }
